@@ -1,3 +1,7 @@
 This is a text file.
+<<<<<<< HEAD
 This is a different update ot the text file. 
 update test 
+=======
+this is an update ot the text file.
+>>>>>>> c0effc0e65f1266c75c791a4b96e49f98b9ffb54
